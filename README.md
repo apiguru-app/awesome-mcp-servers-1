@@ -483,6 +483,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > E-Commerce platforms.
 
+- <img src="https://dash.apiguru.app/static/images/apiguru-mcp-icon.png" height="14" alt="Apiguru Logo" /> **[Apiguru Amazon Data](https://github.com/apiguru-app/agent-kit)**<sup><sup>⭐</sup></sup> - Live Amazon marketplace data across 20 countries: product details, reviews, keyword search, best-sellers, deals, offers and stock, and seller profiles. Hosted keyless endpoint (free calls, then x402 pay-per-call) or an API key.
 - <img src="https://www.mercadolibre.com.ar/favicon.ico" height="14" alt="MercadoLibre Logo" /> [Mercado Libre](https://mcp.mercadolibre.com/) - Mercado Libre's official MCP server, offering tools to interact with our marketplace, simplifying tasks and product integration.
 - <img src="https://shopsavvy.com/favicon.ico" height="14" alt="ShopSavvy Logo" /> **[ShopSavvy](https://github.com/shopsavvy/shopsavvy-mcp-server)**<sup><sup>⭐</sup></sup> - Complete product and pricing data solution for AI assistants. Search for products by barcode/ASIN/URL, access detailed product metadata, access comprehensive pricing data from thousands of retailers, view and track price history, and more. Published as `@shopsavvy/mcp-server`.
 
